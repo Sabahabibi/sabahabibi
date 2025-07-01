@@ -1,18 +1,5 @@
-<h3 align="center">Front-End Developer</h3>
 
-<p align="center">
-  I'm a front-end developer with a passion for building modern, fast, and accessible web interfaces.<br/>
-  I enjoy writing clean code, bringing designs to life, and solving real-world problems with JavaScript and React.
-</p>
-
-<p align="center">
-  📬 Email: <a href="mailto:sabahabibi5993@gmail.com">sabahabibi5993@gmail.com</a> •  
-  💼 <a href="https://linkedin.com/in/sabahabibi" target="_blank">LinkedIn</a>
-</p>
-
-<br/>
-
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <!-- Tech Stack Icons -->
